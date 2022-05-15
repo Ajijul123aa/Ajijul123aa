@@ -10,7 +10,7 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙅𝙄𝘽𝙊𝙉'𝙎 𝙒𝙊𝙍𝙇𝘿&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
@@ -120,7 +120,7 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Ajijul123aa&theme=react-dark&area=true&hide_border=true)](https://github.com/Ajijul123aa/github-readme-activity-graph)
+
 
 <a href="https://github.com/Ajijul123aa/termux_banner_TERMUX-BANNER.git"><img title="JIBON_TERMUX-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajijul123aa&repo=termux_banner&theme=gotham"></a>
 
