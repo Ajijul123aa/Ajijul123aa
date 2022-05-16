@@ -107,7 +107,7 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Ajijul123aa/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrK4US4R&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. K4US4R GitHub stats"/></td> </a>
+    <td valign="top"><a href="https://github.com/Ajijul123aa/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrK4US4R&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. Jibon GitHub stats"/></td> </a>
     <td valign="top"> <a href="https://github.com/Ajijul123aa/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrK4US4R&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
