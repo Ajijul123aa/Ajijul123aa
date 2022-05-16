@@ -75,7 +75,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ Emergency Note** Don't Play with me I will fu*k you**
+- ➪ Emergency Note** Don't Play with me I will fu*k you Mind It It's Jibon XD**
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
