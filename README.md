@@ -3,7 +3,8 @@
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 
-
+![](https://i.top4top.io/p_2374g08670.gif)
+![](https://d.top4top.io/p_2374iax5u0.gif)
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
 
