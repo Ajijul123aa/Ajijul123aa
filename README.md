@@ -64,11 +64,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [CYBER GANG](https://www.facebook.com/groups/cybergangofficial05/?ref=share)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [AJIJUL HASAN JIBON](https://www.facebook.com/groups/cybergangofficial05/?ref=share)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 Help Page :- [Cyber Gang](https://www.facebook.com/Cyber.Gang.Officials/)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 Help Page :- [It's Jibon](https://www.facebook.com/Jibon.xd.404error/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
