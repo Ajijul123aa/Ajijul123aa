@@ -60,7 +60,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪Personal 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺  𝙵𝙰𝙶𝙴 :- [IT's JIBON](https://www.facebook.com/Jibon.123.Hoxer/)
+- ➪Personal 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 MESSENGER:- [IT's JIBON](https://www.facebook.com/Jibon.123.Hoxer)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
