@@ -94,7 +94,7 @@
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h2><img width="25" src="https://github.com/Ajijul123aa/Ajijul123aa/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
+<h2><img width="25" src="https://github.com/MRJIBON/MRJIBON/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -112,8 +112,8 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Ajijul123aa/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Ajijul123aa&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. Jibon GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/Ajijul123aa/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajijul123aa&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MRJIBON/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Ajijul123aa&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. Jibon GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MRJIBON/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajijul123aa&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
@@ -127,11 +127,11 @@
 
 
 
-<a href="https://github.com/Ajijul123aa/termux_banner_TERMUX-BANNER.git"><img title="JIBON_TERMUX-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajijul123aa&repo=termux_banner&theme=gotham"></a>
+<a href="https://github.com/MRJIBON/termux_banner_TERMUX-BANNER.git"><img title="JIBON_TERMUX-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=MRJIBON&repo=termux_banner&theme=gotham"></a>
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Ajijul123aa"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Ajijul123aa&theme=monokai"></a>
+<a href="https://github.com/MRJIBON"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MRJIBON&theme=monokai"></a>
 </p>
 <p align="center"> 
 
